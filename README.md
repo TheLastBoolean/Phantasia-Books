@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+Here I'm going to write a bit about myself 
+
+:)
