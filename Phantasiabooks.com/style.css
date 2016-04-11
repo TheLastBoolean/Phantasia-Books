@@ -1,8 +1,23 @@
 body {
 
 background-color: black;
+
 }
 
-p {
-	color: red;
+#book1img {
+padding-top: 200px;
+width: 450px;
+height: 720;
+float: right;
+padding-right:50px;
+}
+
+.book1desc{
+	padding-top:200px;
+	text-align: justify;
+	float:left;
+}
+
+
+div {
 }
