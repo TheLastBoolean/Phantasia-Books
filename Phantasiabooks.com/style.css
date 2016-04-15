@@ -18,6 +18,12 @@ padding-right:50px;
 	float:left;
 }
 
+p {
+	color: grey;
+	font-weight: -10;
+}
 
-div {
+.col-xs-5{
+	max-width: 600px;
+	max-height: 500px;
 }
